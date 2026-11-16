@@ -2,7 +2,7 @@
 window.GAME_CONFIG = {
   title: "合成猪猪大王",
   backgroundImage: "assets/background.jpg", // 例如 "assets/background.jpg"
-  music: "assets/yibaizhongshenghuo.m4a",           // 例如 "assets/music.mp3"
+  music: "",           // 例如 "assets/music.mp3"
   // 按从小到大排列；可以只填写部分图片，其余使用内置示例。
   characters: [
     { name: "小桃", image: "assets/character-01.jpg" },
